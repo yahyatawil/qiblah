@@ -13,7 +13,7 @@ The Qiblah project features are:
 
 ## Hardware
   - Arduino board.
-  - BMI270 shuttle board.
+  - BMI270 shuttle board (using [BMI270_AUX_BMM150](https://github.com/yahyatawil/BMI270_AUX_BMM150) library). 
   - Adafruit Mini GPS PA1010D.
   - Monochrome 0.91" 128x32 I2C OLED Display.
 
