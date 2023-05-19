@@ -1,3 +1,5 @@
+![qiblah-cover-2](https://github.com/yahyatawil/qiblah/assets/1148381/188c6657-440e-4591-99fc-eb15e7c3ef34)
+
 # This Project
 An open-source qibla finder with tilt compensation using 9-DoF IMU and GPS connected with Arduino.
 
