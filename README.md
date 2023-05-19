@@ -21,6 +21,10 @@ The Qiblah project features are:
 
 ## Demo
 
+
+https://github.com/yahyatawil/qiblah/assets/1148381/e3276048-1e34-4c34-82e1-fbbcd989b52b
+
+
 ## Contribution
 This circuit is built and tested in my city. Anyone can re-build and validate it with correct qiblah direction, please report a confirmation in issues. 
 
