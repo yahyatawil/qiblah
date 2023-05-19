@@ -25,8 +25,8 @@ The Qiblah project features are:
 This circuit is built and tested in my city. Anyone can re-build and validate it with correct qiblah direction, please report a confirmation in issues. 
 
 ## Documentation 
-- Arabic:
-- English:
+- [Arabic](https://atadiat.com/ar/open-source-qibla-compass-with-tilt-compensation/).
+- [English](https://atadiat.com/en/e-open-source-qibla-compass-with-tilt-compensation/).
 
 ## References: 
 - [The Correct Qibla](http://nurlu.narod.ru/qibla.pdf "The Correct Qibla") 

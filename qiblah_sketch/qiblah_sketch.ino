@@ -8,7 +8,8 @@
   - Monochrome 0.91" 128x32 I2C OLED Display
 
   Documentation:
-  - 
+  - Arabic: https://atadiat.com/ar/open-source-qibla-compass-with-tilt-compensation/.
+  - English: https://atadiat.com/en/e-open-source-qibla-compass-with-tilt-compensation/.
   
   References: 
   - https://atadiat.com/en/e-towards-understanding-imu-basics-of-accelerometer-and-gyroscope-sensors/
